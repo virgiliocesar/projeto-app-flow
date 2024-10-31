@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "target": "ES6" /* Define a versão do JavaScript para a qual o código será transpilado. */,
+    "module": "commonjs" /* Especifica o sistema de módulos a ser usado. */,
+    "outDir": "./dist" /* Especifica a pasta de saída para todos os arquivos emitidos. */,
+    "strict": true /* Habilita todas as opções de verificação estrita de tipos. */,
+    "esModuleInterop": true /* Emite JavaScript adicional para facilitar a importação de módulos CommonJS. */,
+    "moduleResolution": "node" /* Especifica a resolução de módulos para o Node.js. */
+  },
+//   "include": [
+//     "src/**/*"
+//   ] /* Inclui todos os arquivos TypeScript no diretório src. */,
+//   "exclude": [
+//     "node_modules",
+//     "dist"
+//   ] /* Exclui os diretórios node_modules e dist. */
+}
