@@ -14,8 +14,8 @@ Podocast Menager
 
 
 ## Como vou implementar
-  Vou retornar um uma api rest (json)
-  o nome podcast, nome do episódio, imagem de capa, link, category
+  GET retorna lista de episódios
+  
 ```js
 [{
     podcastName: "Fui SURPREENDIDO pelo MC Lan",
