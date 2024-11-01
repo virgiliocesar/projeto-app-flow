@@ -15,7 +15,8 @@ Podocast Menager
 
 ## Como vou implementar
   GET retorna lista de episódios
-  
+
+  ressponse:
 ```js
 [{
     podcastName: "Fui SURPREENDIDO pelo MC Lan",
